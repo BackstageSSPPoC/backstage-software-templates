@@ -4,7 +4,7 @@ metadata:
   name: Test Template
   description: Test Template
   annotations:
-    github.com/project-slug: jk7testorg/backstage-software-templates
+    github.com/project-slug: Chaitanya-Shekhar-Pandey/backstage-software-templates
 spec:
   type: service
   owner: development
