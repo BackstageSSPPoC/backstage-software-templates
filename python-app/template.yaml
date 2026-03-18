@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: Test-template
-  title: Github Template
+  title: GitHub Template
   description: Standard backend microservice Boilerplate
 spec:
   owner: development
